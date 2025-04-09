@@ -11,24 +11,24 @@ body, html{
 }
 
 .foto1{
-    background-image: url(img/f1.jpg);
+    background-image: url(f1.jpg);
     min-height: 100%;
     
 }
 
 .foto2{
-    background-image: url(img/f2.jpg);
+    background-image: url(f2.jpg);
     min-height: 100%;
     
 }
 
 .foto3{
-    background-image: url(img/f3.jpg);
+    background-image: url(f3.jpg);
     min-height: 100%;
 }
 
 .foto4{
-    background-image: url(img/f8.jpg);
+    background-image: url(f8.jpg);
     min-height: 100%;
 }
 
